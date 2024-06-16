@@ -36,13 +36,6 @@ Confira a demonstração ao vivo do projeto no GitHub Pages: [Projeto Bateria](h
 
 4. Pressione as teclas indicadas na interface para tocar os sons de bateria.
 
-## Estrutura do Projeto
-Projeto-Bateria/
-│
-├── index.html # Arquivo principal HTML
-├── styles.css # Arquivo CSS para estilização
-└── script.js # Arquivo JavaScript para interatividade
-
 ## Contribuição
 
 Se você quiser contribuir com o projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas melhorias. Qualquer ajuda é bem-vinda!
