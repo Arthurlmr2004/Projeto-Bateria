@@ -47,10 +47,4 @@ Projeto-Bateria/
 
 Se você quiser contribuir com o projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas melhorias. Qualquer ajuda é bem-vinda!
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 Desenvolvido por [Arthur](https://github.com/arthurlmr2004)
